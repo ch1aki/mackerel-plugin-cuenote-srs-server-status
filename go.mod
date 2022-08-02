@@ -1,6 +1,6 @@
 module github.com/ch1aki/mackerel-plugin-cuenote-srs-status
 
-go 1.13
+go 1.19
 
 require (
 	github.com/jessevdk/go-flags v1.4.0
